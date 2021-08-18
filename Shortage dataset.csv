@@ -1,0 +1,190 @@
+Occupation code,Job types included on the shortage occupations list,Areas of the UK where there is a shortage,Annual salary (),Special Condition
+1181,director of nursing,"England, Scotland, Wales, Northern Ireland","30,720",
+1181,health service manager,"England, Scotland, Wales, Northern Ireland","30,720",
+1181,information manager,"England, Scotland, Wales, Northern Ireland","30,720",(health authority: hospital service)
+1242,care manager,"England, Scotland, Wales, Northern Ireland","21,360",
+1242,day centre manager,"England, Scotland, Wales, Northern Ireland","21,360",
+1242,nursing home owner,"England, Scotland, Wales, Northern Ireland","21,360",
+1242,residential manager ,"England, Scotland, Wales, Northern Ireland","21,360",(residential home)
+2111,analytical chemist,Scotland only,"21,360","Scotland only ,only jobs in the nuclear industry."
+2111,chemist,Scotland only,"21,360","Scotland only ,only jobs in the nuclear industry."
+2111,development chemist,Scotland only,"21,360","Scotland only ,only jobs in the nuclear industry."
+2111,industrial chemist,Scotland only,"21,360","Scotland only ,only jobs in the nuclear industry."
+2111,research chemist,Scotland only,"21,360","Scotland only ,only jobs in the nuclear industry."
+2112,biomedical scientist,"England, Scotland, Wales, Northern Ireland","23,760",
+2112,forensic scientist,"England, Scotland, Wales, Northern Ireland","23,760",
+2112,horticulturist,"England, Scotland, Wales, Northern Ireland","23,760",
+2112,microbiologist,"England, Scotland, Wales, Northern Ireland","23,760",
+2112,pathologist,"England, Scotland, Wales, Northern Ireland","23,760",
+2113,engineering geologist,"England, Scotland, Wales, Northern Ireland","29,200",construction-related ground engineering industry
+2113,hydrogeologist,"England, Scotland, Wales, Northern Ireland","29,200",construction-related ground engineering industry
+2113,geophysicist,"England, Scotland, Wales, Northern Ireland",29200,"oil, gas and construction-related ground engineering industry"
+2113,geoscientist,"England, Scotland, Wales, Northern Ireland",29200,oil and gas industry
+2113,geologist,"England, Scotland, Wales, Northern Ireland",29200,oil and gas industry
+2113,geochemist,"England, Scotland, Wales, Northern Ireland",29200,oil and gas industry
+2113,technical services manager,"England, Scotland, Wales, Northern Ireland",29200,Only in the decommissioning and waste areas of the nuclear industry
+2113,senior resource geologist,"England, Scotland, Wales, Northern Ireland",29200,Mining sector
+2113,staff geologist,"England, Scotland, Wales, Northern Ireland",29200,Mining sector
+2114,archaeologists,"England, Scotland, Wales, Northern Ireland","20,720",
+2121,building engineer,"England, Scotland, Wales, Northern Ireland","28,000",
+2121,civil engineer,"England, Scotland, Wales, Northern Ireland","28,000",
+2121,highway engineer,"England, Scotland, Wales, Northern Ireland","28,000",
+2121,petroleum engineer,"England, Scotland, Wales, Northern Ireland","28,000",
+2121,public health engineer,"England, Scotland, Wales, Northern Ireland","28,000",
+2121,site engineer,"England, Scotland, Wales, Northern Ireland","28,000",
+2121,structural engineer,"England, Scotland, Wales, Northern Ireland","28,000",
+2122,mechanical engineer,"England, Scotland, Wales, Northern Ireland","26,720",
+2122,aeronautical engineer,"England, Scotland, Wales, Northern Ireland","26,720",
+2122,aerospace engineer,"England, Scotland, Wales, Northern Ireland","26,720",
+2122,automotive engineer,"England, Scotland, Wales, Northern Ireland","26,720",
+2122,marine engineer,"England, Scotland, Wales, Northern Ireland","26,720",
+2123,electrical engineer,"England, Scotland, Wales, Northern Ireland","29,600",
+2123,electrical surveyor,"England, Scotland, Wales, Northern Ireland","29,600",
+2123,equipment engineer,"England, Scotland, Wales, Northern Ireland","29,600",
+2123,power engineer,"England, Scotland, Wales, Northern Ireland","29,600",
+2123,signal engineer,"England, Scotland, Wales, Northern Ireland","29,600",(railways)
+2124,electronics engineer,"England, Scotland, Wales, Northern Ireland","27,760",
+2124,avionics engineer,"England, Scotland, Wales, Northern Ireland","27,760",
+2124,broadcasting engineer,"England, Scotland, Wales, Northern Ireland","27,760",
+2124,microwave engineer,"England, Scotland, Wales, Northern Ireland","27,760",
+2124,telecommunications engineer,"England, Scotland, Wales, Northern Ireland","27,760",
+2126,research and development engineer,"England, Scotland, Wales, Northern Ireland","27,280",
+2126,design engineer,"England, Scotland, Wales, Northern Ireland","27,280",
+2126,clinical engineer,"England, Scotland, Wales, Northern Ireland","27,280",
+2126,development engineer,"England, Scotland, Wales, Northern Ireland","27,280",
+2126,ergonomist,"England, Scotland, Wales, Northern Ireland","27,280",
+2127,process engineer,"England, Scotland, Wales, Northern Ireland","26,480",
+2127,production engineer,"England, Scotland, Wales, Northern Ireland","26,480",
+2127,industrial engineer,"England, Scotland, Wales, Northern Ireland","26,480",
+2127,chemcial engineer,"England, Scotland, Wales, Northern Ireland","26,480",
+2127,production consultant,"England, Scotland, Wales, Northern Ireland","26,480",
+2129,acoustician,"England, Scotland, Wales, Northern Ireland","26,160",
+2129,ceramicist,"England, Scotland, Wales, Northern Ireland","26,160",
+2129,food technologist,"England, Scotland, Wales, Northern Ireland","26,160",
+2129,metallurgist,"England, Scotland, Wales, Northern Ireland","26,160",
+2129,patent agent,"England, Scotland, Wales, Northern Ireland","26,160",
+2129,project engineer,"England, Scotland, Wales, Northern Ireland","26,160",
+2129,scientific consultant,"England, Scotland, Wales, Northern Ireland","26,160",
+2129,technical engineer,"England, Scotland, Wales, Northern Ireland","26,160",
+2129,technologist,"England, Scotland, Wales, Northern Ireland","26,160",
+2129,traffic engineer,"England, Scotland, Wales, Northern Ireland","26,160",
+2135,business analyst,"England, Scotland, Wales, Northern Ireland","29,280",(Computing)
+2135,data communications analyst,"England, Scotland, Wales, Northern Ireland","29,280",
+2135,systems analyst,"England, Scotland, Wales, Northern Ireland","29,280",
+2135,systems consultant,"England, Scotland, Wales, Northern Ireland","29,280",
+2135,technical analyst,"England, Scotland, Wales, Northern Ireland","29,280",(Computing)
+2135,technical architect,"England, Scotland, Wales, Northern Ireland","29,280",
+2136,programmer,"England, Scotland, Wales, Northern Ireland","26,640",
+2136,database developer,"England, Scotland, Wales, Northern Ireland","26,640",
+2136,games programmer,"England, Scotland, Wales, Northern Ireland","26,640",
+2136,software engineer,"England, Scotland, Wales, Northern Ireland","26,640",
+2136,analyst programmer,"England, Scotland, Wales, Northern Ireland","26,640",
+2137,web design consultant,"England, Scotland, Wales, Northern Ireland","20,800",
+2137,internet developer,"England, Scotland, Wales, Northern Ireland","20,800",
+2137,multimedia developer,"England, Scotland, Wales, Northern Ireland","20,800",
+2137,web designer,"England, Scotland, Wales, Northern Ireland","20,800",
+2139,it consultant,"England, Scotland, Wales, Northern Ireland","25,440",only cyber security specialists
+2139,quality analyst,"England, Scotland, Wales, Northern Ireland","25,440",only cyber security specialists
+2139,software tester,"England, Scotland, Wales, Northern Ireland","25,440",only cyber security specialists
+2139,systems tester,"England, Scotland, Wales, Northern Ireland","25,440",only cyber security specialists
+2139,telecommunications planner,"England, Scotland, Wales, Northern Ireland","25,440",only cyber security specialists
+2216,veterinarian,"England, Scotland, Wales, Northern Ireland","26,000",
+2216,veterinary practitioner,"England, Scotland, Wales, Northern Ireland","26,000",
+2216,veterinary surgeon,"England, Scotland, Wales, Northern Ireland","26,000",
+2425,informaticians,"England, Scotland, Wales, Northern Ireland","26,240",
+2425,bio-informaticians,"England, Scotland, Wales, Northern Ireland","26,240",
+2431,architect,"England, Scotland, Wales, Northern Ireland","28,000",
+2431,architectural consultant,"England, Scotland, Wales, Northern Ireland","28,000",
+2431,chartered architect,"England, Scotland, Wales, Northern Ireland","28,000",
+2431,landscape architect,"England, Scotland, Wales, Northern Ireland","28,000",
+2461,quality engineer,"England, Scotland, Wales, Northern Ireland","24,400",
+2461,planning engineer,"England, Scotland, Wales, Northern Ireland","24,400",
+2461,quality assurance engineer,"England, Scotland, Wales, Northern Ireland","24,400",
+2461,quality control officer,"England, Scotland, Wales, Northern Ireland","24,400",
+3111,laboratory analyst,"England, Scotland, Wales, Northern Ireland","14,560",
+3111,laboratory technician,"England, Scotland, Wales, Northern Ireland","14,560",
+3111,medical laboratory assistant,"England, Scotland, Wales, Northern Ireland","14,560",
+3111,scientific technician,"England, Scotland, Wales, Northern Ireland","14,560",
+3111,water tester,"England, Scotland, Wales, Northern Ireland","14,560",
+3411,artist,"England, Scotland, Wales, Northern Ireland","16,800",
+3411,illustrator,"England, Scotland, Wales, Northern Ireland","16,800",
+3411,portrait painter,"England, Scotland, Wales, Northern Ireland","16,800",
+3411,sculptor,"England, Scotland, Wales, Northern Ireland","16,800",
+3414,ballet dancer,"England, Scotland, Wales, Northern Ireland","23,840"," Must meet the standard required by internationally recognised UK ballet or contemporary dance companies.The company must be endorsed as being internationally recognised by a UK industry body such as the Arts Councils (of England, Scotland or Wales)."
+3414,dancers,"England, Scotland, Wales, Northern Ireland","23,840"," Must meet the standard required by internationally recognised UK ballet or contemporary dance companies.The company must be endorsed as being internationally recognised by a UK industry body such as the Arts Councils (of England, Scotland or Wales)."
+3415,musician,"England, Scotland, Wales, Northern Ireland","22,000","Only skilled orchestral musicians who are leaders, principals, sub-principals or numbered string positions, and who meet the standard required by internationally recognised UK orchestras.The orchestra must be endorsed as being internationally recognised by the Association of British Orchestras."
+3416,film editor,"England, Scotland, Wales, Northern Ireland","24,000",
+3416,production assistant,"England, Scotland, Wales, Northern Ireland","24,000",(broadcasting)
+3416,studio manager,"England, Scotland, Wales, Northern Ireland","24,000",
+3416,television producer,"England, Scotland, Wales, Northern Ireland","24,000",
+3416,theatrical agent,"England, Scotland, Wales, Northern Ireland","24,000",
+3421,graphic designer,"England, Scotland, Wales, Northern Ireland","18,800",
+3421,commercial artist,"England, Scotland, Wales, Northern Ireland","18,800",
+3421,designer,"England, Scotland, Wales, Northern Ireland","18,800",(Advertising)
+3421,graphic artist,"England, Scotland, Wales, Northern Ireland","18,800",
+3421,mac operator,"England, Scotland, Wales, Northern Ireland","18,800",
+5215,welder,"England, Scotland, Wales, Northern Ireland","18,240","Only high integrity pipe welders, where the job requires 3 or more years’ related on-the-job experience. This experience must not have been gained through illegal working."
+6146,senior care assistant,"England, Scotland, Wales, Northern Ireland","13,520",
+6146,senior carer,"England, Scotland, Wales, Northern Ireland","13,520",
+6146,senior support worker,"England, Scotland, Wales, Northern Ireland","13,520",(Local government: welfare services)
+6146,team leader,"England, Scotland, Wales, Northern Ireland","13,520",(nursing home)
+2211,anaesthetist,"England, Scotland, Wales, Northern Ireland",,
+2211,doctor,"England, Scotland, Wales, Northern Ireland",,
+2211,general practitioner,"England, Scotland, Wales, Northern Ireland",,
+2211,medical practitioner,"England, Scotland, Wales, Northern Ireland",,
+2211,paediatrician,"England, Scotland, Wales, Northern Ireland",,
+2211,psychiatrist,"England, Scotland, Wales, Northern Ireland",,
+2211,radiologist,"England, Scotland, Wales, Northern Ireland",,
+2211,surgeon,"England, Scotland, Wales, Northern Ireland",,
+2211,consultant,"England, Scotland, Wales, Northern Ireland",,(Hospital Service)
+2212,psychologist,"England, Scotland, Wales, Northern Ireland",,
+2212,clinical psychologist,"England, Scotland, Wales, Northern Ireland",,
+2212,educational psychologist,"England, Scotland, Wales, Northern Ireland",,
+2212,forensic psychologist,"England, Scotland, Wales, Northern Ireland",,
+2212,occupational psychologist,"England, Scotland, Wales, Northern Ireland",,
+2212,psychometrist,"England, Scotland, Wales, Northern Ireland",,
+2213,pharmacist,"England, Scotland, Wales, Northern Ireland",,
+2213,chemist,"England, Scotland, Wales, Northern Ireland",,
+2213,dispensary manager,"England, Scotland, Wales, Northern Ireland",,
+2213,pharmaceutical chemist,"England, Scotland, Wales, Northern Ireland",,
+2213,pharmacy manager,"England, Scotland, Wales, Northern Ireland",,
+2217,medical radiographer,"England, Scotland, Wales, Northern Ireland",,
+2217,radiographer,"England, Scotland, Wales, Northern Ireland",,
+2217,sonographer,"England, Scotland, Wales, Northern Ireland",,
+2217,therapeutic radiographer,"England, Scotland, Wales, Northern Ireland",,
+2217,vascular technologist,"England, Scotland, Wales, Northern Ireland",,
+2219,audiologist,"England, Scotland, Wales, Northern Ireland",,
+2219,dental hygiene therapist,"England, Scotland, Wales, Northern Ireland",,
+2219,dietician nutritionist,"England, Scotland, Wales, Northern Ireland",,
+2219,family planner,"England, Scotland, Wales, Northern Ireland",,
+2219,occupational health adivser,"England, Scotland, Wales, Northern Ireland",,
+2219,paramedical practitioner,"England, Scotland, Wales, Northern Ireland",,
+2221,physiotherapist,"England, Scotland, Wales, Northern Ireland",,
+2221,electro-therapist,"England, Scotland, Wales, Northern Ireland",,
+2221,physiotherapy practitioner,"England, Scotland, Wales, Northern Ireland",,
+2222,occupational therapist,"England, Scotland, Wales, Northern Ireland",,
+2223,speech and language therapist,"England, Scotland, Wales, Northern Ireland",,
+2223,language therapist,"England, Scotland, Wales, Northern Ireland",,
+2223,speech therapist,"England, Scotland, Wales, Northern Ireland",,
+2231,district nurse,"England, Scotland, Wales, Northern Ireland",,
+2231,health visitor,"England, Scotland, Wales, Northern Ireland",,
+2231,mental health practitioner,"England, Scotland, Wales, Northern Ireland",,
+2231,nurse,"England, Scotland, Wales, Northern Ireland",,
+2231,practice nurse,"England, Scotland, Wales, Northern Ireland",,
+2231,pyschiatric nurse,"England, Scotland, Wales, Northern Ireland",,
+2231,staff nurse,"England, Scotland, Wales, Northern Ireland",,
+2231,student nurse,"England, Scotland, Wales, Northern Ireland",,
+2314,secondary teacher,"England, Scotland, Wales, Northern Ireland",,"  only teachers in maths, physics, science (where an element of physics will be taught), computer science and modern foreign languages"
+2315,primary teacher,Scotland only,,"Scotland only , only Gaelic medium teachers"
+2442,psychiatric social worker,"England, Scotland, Wales, Northern Ireland",,
+2442,senior practitioner,"England, Scotland, Wales, Northern Ireland",, (local government: social services)
+2442,social worker,"England, Scotland, Wales, Northern Ireland",,
+3213,paramedic,"England, Scotland, Wales, Northern Ireland",,
+3213,ambulance paramedic,"England, Scotland, Wales, Northern Ireland",,
+3213,emergency care practitioner,"England, Scotland, Wales, Northern Ireland",,
+3213,paramedic-ecp,"England, Scotland, Wales, Northern Ireland",,
+6141,nursing auxiliary,"England, Scotland, Wales, Northern Ireland",,
+6141,auxiliary nurse,"England, Scotland, Wales, Northern Ireland",,
+6141,health care assistant ,"England, Scotland, Wales, Northern Ireland",,(hospital service)
+6141,health care support worker,"England, Scotland, Wales, Northern Ireland",,
+6141,nursing assistant,"England, Scotland, Wales, Northern Ireland",,

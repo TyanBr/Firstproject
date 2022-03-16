@@ -65,5 +65,10 @@ def first_name():
 
 
 
+@app.errorhandler(404)
+def page_not_found(e):
+    return '<h1>page not found</h1>'
+
+
 if __name__ == "__main__":
     app.run(debug=True)
